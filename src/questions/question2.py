@@ -1,7 +1,5 @@
-from typing import List
-
 class Orders:
-    def combine_orders(self, requests: List[int], n_max: int) -> int:
+    def combine_orders(self, requests: list[int], n_max: int) -> int:
         """
         Método deve combinar as viagens dos malotes limitado ao valor 'n_max' e 2 pedidos por vez
 

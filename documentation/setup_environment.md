@@ -1,5 +1,8 @@
 Sicredi Python Technical Challenge
 
+#### Desenvolvido por Diego Grimon - www.DiegoGrimon.dev - FEV/25
+Repositório: https://github.com/DiegoGrimon/Sicredi-technical-challenge
+
 ### Preparação do ambiente:
 #### Comando para criar o entorno Virtual em sistemas Windows
 ```commandline
