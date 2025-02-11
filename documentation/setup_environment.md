@@ -7,15 +7,15 @@ Repositório: https://github.com/DiegoGrimon/Sicredi-technical-challenge
 #### Comando para criar o entorno Virtual em sistemas Windows
 ```commandline
 pip install virtualenv
-virtualenv env
-source env/Scripts/activate
+virtualenv venv
+venv/Scripts/activate
 ```
 
 #### Comando para criar o entorno Virtual Linux e WSL
 ```commandline
 pip install virtualenv
-virtualenv env
-source env/bin/activate
+virtualenv venv
+source venv/bin/activate
 ```
 
 #### Instalação das LIBs para testes, formatação e análise de código
